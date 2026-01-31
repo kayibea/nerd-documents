@@ -1,7 +1,6 @@
+# Nerd documents
 
-# Documents
-
-This repository contains curated documentation on Linux, shell tools, system administration, security, and more.
+Because my memory fail me sometimes
 
 ## Structure
 
